@@ -1,0 +1,172 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	text-align: center;
+
+}
+
+body {
+	background-color: #f7f9fa;
+}
+
+.container {
+	width: 80%;
+}
+
+
+.backgroud-section {
+	background-color: #f7f9fa;
+	padding: 30px;
+}
+
+nav ul li a{
+	color: black;
+}
+nav .brand-logo {
+	color: black;
+}
+
+.titulo-sec {
+	color: #00569d;
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.text-section {
+	padding-bottom: 30px;
+}
+
+.title-box{
+	font-weight: bold;
+	text-align: center;
+    font-size: 1.2em;
+
+}
+
+.text-box {
+	font-size: 0.9em;
+	padding: 10px;
+}
+
+
+.section-blue {
+	background-color: gray;
+	background-repeat: round;
+	padding: 50px;
+}
+
+.thumbnail {
+	border-style: none;
+}
+
+.img-responsive {
+	padding-top: 10px;
+}
+
+.card-peoples {
+	background-color: #006585;
+	border-radius: 5%;
+}
+
+.text-card-peoples {	 
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
+
+.email-text {
+	font-size: 16px;
+}
+
+.img-circle {
+	padding: 30px;
+	border-radius: 50%;
+
+}
+
+
+
+.background {
+	background-size: 100% 100%;
+	background-repeat: round;
+}
+
+
+.model-box-green {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: #09a3a0;
+	border-radius: 7%;
+}
+
+.text-model-box-green h4 {	
+	color: #fff;
+	font-size: 21px;
+}
+
+.text-model-box-green h5 {
+	font-weight: 600;
+	color: #89ffff;
+}
+
+.text-model-box-green p {
+	color: #fff;
+}
+
+.form-control {
+	text-align: left;
+}
+
+textarea.form-control {
+	margin-bottom: 15px;
+	text-align: left;
+}
+
+
+.title-footer {
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 20px;
+    color: white;
+}    
+
+.box-ad {
+	border-radius: 5px;
+	background-color: white;
+	margin:20px;
+	width: 106px;
+	height: 65px;
+}
+
+.img-align {
+	height: 100%;
+	text-align: center;
+	margin: auto;
+}
+
+h5{
+	padding-top: 20px;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h5 + p {
+	text-align: justify;
+	padding: 30px;
+}
+
+.text-modal {
+	text-align: justify;
+	padding: 30px;
+
+}
+
+
