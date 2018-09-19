@@ -169,4 +169,34 @@ h5 + p {
 
 }
 
+.container + p {
+	width: 100%;
+}
 
+.align-box-1{
+	padding-bottom: 14px;
+}
+
+.align-box-2{
+	padding-bottom: 14px;
+}
+
+.align-box-3{
+	padding-bottom: 14px;
+}
+
+.container.fullw {
+	width: 100%;
+}
+
+.caption.align-height-1{
+	padding-bottom: 140px;
+}
+
+.caption.align-height-2{
+	padding-bottom: 118px;
+}
+
+.btn-mg {
+	margin-bottom: 15px;
+}
